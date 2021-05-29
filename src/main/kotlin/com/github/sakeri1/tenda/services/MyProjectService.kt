@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.sakeri1.tenda.services
 
+import com.github.sakeri1.tenda.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

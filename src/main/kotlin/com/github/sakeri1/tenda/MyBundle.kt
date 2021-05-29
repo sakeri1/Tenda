@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.sakeri1.tenda
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
